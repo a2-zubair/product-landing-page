@@ -1,2 +1,2 @@
-# product-landing-page
-Html5 responsive product landing page template.
+# Product Landing Page (FCC Project)
+**Html5 responsive product landing page template.**
